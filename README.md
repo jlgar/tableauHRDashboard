@@ -1,26 +1,25 @@
 # Human Resources Dashboard (Tableau)
 
-This repository contains a Tableau workbook (`.twbx`) focused on key HR metrics and insights.
+This repository contains a link to the live dashboard hosted on Tableau Public.
+
+## 🌐 View the Live Dashboard
+
+👉 [View the Human Resources Dashboard on Tableau Public](https://public.tableau.com/views/HR_twbx/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📊 Dashboard Highlights
 
 - Employee Headcount & Turnover Rates
 - Department-wise Hiring Trends
 - Gender & Age Distribution
-- Average Tenure & Employee Satisfaction
+- Average Tenure 
 - Attrition Analysis
 
 ## 📁 Files
 
 - `hr_dashboard.twbx` — Tableau workbook file (open with Tableau Desktop or Tableau Public)
 
-## 🔍 How to View
-
-1. Download the `.twbx` file from this repo
-2. Open it using [Tableau Public](https://public.tableau.com/) or Tableau Desktop
-3. Explore filters and dashboards for detailed HR insights
-
 ## 🧠 Purpose
 
-This dashboard was created to visualize and analyze core HR data in order to assist decision-makers with workforce planning and strategy.
+This dashboard helps visualize key HR metrics to support workforce strategy and talent planning.
+
 
